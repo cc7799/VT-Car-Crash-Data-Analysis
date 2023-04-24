@@ -34,7 +34,7 @@ theme_map <- function(base_size=9, base_family="") {
 ```
 
 # Intro
-  Driving is more than likely the most dangerous thing you will do within the next year. Every year millions of people die in car accidents in the US alone. What if we could determine the severity of a car crash before it happened and selectively restructure areas with a high level of  danger. 
+  Driving is more than likely the most dangerous thing you will do within the next year. Every year tens of thousands of people die in car accidents in the US alone. What if we could determine the severity of a car crash before it happened and selectively restructure areas with a high level of  danger. 
   
   In this project, we are looking at a dataset containing information on car crashes in Vermont from 2010-2022. The dataset we are using is from an observational study and contains an inherent bias towards Vermont drivers since the study was conducted in Vermont. This dataset contained a large amount of missing values that needed to be filtered out and many of the chr data types had to be converted into factors. 
   
